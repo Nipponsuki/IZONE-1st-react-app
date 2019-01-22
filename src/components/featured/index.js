@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../../public/logo.png';
+import logo from '../../resources/images/logo.png';
 import Carrousel from './Carrousel';
 import TimeUntil from './TimeUntil';
 
