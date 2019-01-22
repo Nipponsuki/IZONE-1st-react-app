@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Nipponsuki/IZONE-1st-react-app.git/precache-manifest.108d1dce37ce55dc46dd0f320f03915c.js"
+  "/Nipponsuki/IZONE-1st-react-app.git/precache-manifest.4eb2d617c9889be229371a6cc56ae9b3.js"
 );
 
 workbox.clientsClaim();
